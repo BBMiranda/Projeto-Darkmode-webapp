@@ -1,4 +1,4 @@
-# Web APP -  - 15/08/2021
+# Web APP - 15/08/2021
 Projeto desenvolvido sobre a orientação do Professor: Rafael Simas
       
       Login: admin
