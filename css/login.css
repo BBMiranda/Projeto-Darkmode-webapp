@@ -1,0 +1,47 @@
+body {
+  font-family: sans-serif;
+  background-color: yellow;
+  max-width: 100%;
+}
+
+main {
+  padding-top: 8rem;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+}
+
+img {
+  width: 8rem;
+  clip-path: circle();
+}
+
+h1 {
+  font-size: 2rem;
+}
+
+input {
+  padding: 1.3rem 6rem;
+  margin-bottom: 0.9rem;
+  border-radius: 0.5rem;
+  border: none;
+}
+
+::placeholder {
+  text-align: center;
+}
+
+button {
+  padding: 1.3rem 10rem;
+  margin-bottom: 0.9rem;
+  border-radius: 0.5rem;
+  border: none;
+  font-weight: bold;
+}
+
+/* senha root */

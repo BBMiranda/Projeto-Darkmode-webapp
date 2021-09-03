@@ -1,0 +1,35 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: sans-serif;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+h1 {
+  border-bottom: 1px solid lightblue;
+}
+
+.button {
+  width: 70%;
+  font-weight: 700;
+  display: block;
+  text-decoration: none;
+  text-transform: uppercase;
+  padding: 10px 0;
+  margin: auto;
+  margin-top: 0.9rem;
+}
+
+.button {
+  color: #fff;
+  background: #4a89ca;
+  transition-duration: 0.3s, 1s;
+  transition-property: background, border-radius, transform;
+}
